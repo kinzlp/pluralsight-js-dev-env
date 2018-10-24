@@ -2,4 +2,4 @@
 
 import chalk from 'chalk'; // This is ES6 syntax
 
-console.log(chalk.green('Start app in dev mode'))
+console.log(chalk.green('Start app in dev mode')); // eslint-disable-line no-console
